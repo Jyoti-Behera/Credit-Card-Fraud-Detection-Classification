@@ -85,5 +85,24 @@
 </section>
 
 <section>
-  <h2
+  <h2>🛠️ Technologies Used</h2>
+  <ul>
+    <li>Python</li>
+    <li>NumPy</li>
+    <li>Pandas</li>
+    <li>Scikit-learn</li>
+    <li>Matplotlib / Seaborn</li>
+  </ul>
+</section>
+
+<section>
+  <h2>📌 Conclusion</h2>
+  <p>
+    This project shows how machine learning classification models can effectively
+    detect fraudulent credit card transactions and handle imbalanced data.
+  </p>
+</section>
+
+</body>
+</html>
 
